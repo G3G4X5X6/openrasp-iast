@@ -10,7 +10,7 @@ __pycache__
 .coverage.*
 ./dist/
 ./build/
-./venv
+venv
 openrasp_iast.egg-info/
 htmlcov
 /log
